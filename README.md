@@ -1,0 +1,2 @@
+# Smells
+Smells project
